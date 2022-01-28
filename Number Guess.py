@@ -55,3 +55,8 @@ else:
     number = random.randint(hardLevel[0] , hardLevel[-1]);
     print("Developer's Option: " + str(number));
     guessWork(number , hardLevel);
+
+
+# Thank You for Playing this game
+# I appreciate your patience to play this stoopid game
+# Once again thank you
